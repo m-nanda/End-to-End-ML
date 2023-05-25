@@ -204,7 +204,7 @@ To use this project, follow these steps:
 
 1. Report  
 
-   | ![Graph Report](result\2023_05_25_metrics_result.png) |   
+   | ![Graph Report](result/2023_05_25_metrics_result.png) |   
    | :--: |
    | Image 6: Report of Machine Learning Models from Unseen Data |  
 
