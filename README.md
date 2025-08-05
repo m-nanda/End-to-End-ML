@@ -1,10 +1,6 @@
-# End-to-End Machine Learning
+# End-to-End Machine Learning  
 
 ## Project Description  
-
-Here's a concise and clear project description based on the information you provided:
-
-## Project Description
 
 This project is a modification of the original repository, modified for guest-lecturer purposes. This project highlights the importance of building a robust machine learning pipeline that prevents data leakage and ensures reliable performance. Additionally, it showcases deployment practices by exposing the model via an API and integrating it into a user-friendly web app. 
 
